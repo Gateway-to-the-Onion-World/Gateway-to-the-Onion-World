@@ -4,7 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gateway-to-the-Onion-World&label=Profile%20views&color=0e75b6&style=flat" alt="Gateway-to-the-Onion-World" /> </p>
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20Views-14784-0e75b6" alt="Profile Views">
+</p>
 
 - ⚡ Fun fact **I am funny😅**
 
