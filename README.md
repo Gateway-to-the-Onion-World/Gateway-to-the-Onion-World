@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-35470-0e75b6" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-45189-0e75b6" alt="Profile Views">
 </p>
 
 - ⚡ Fun fact **I am funny😅**
